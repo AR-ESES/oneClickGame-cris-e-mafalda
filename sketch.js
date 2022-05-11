@@ -35,8 +35,8 @@ function gotCommand(error, results) {
   }
 }
 
-function keyPressed() {
-  if (key == ' ') {
+function mouseCliked() {
+  if (mouse == ' ') {
     sapo.jump();
   }
 }
