@@ -30,7 +30,7 @@ function keyPressed() {
 }
 
 function draw() {
-  if (random(1) < 0.005) {
+  if (random(1) < 0.003) {
     trains.push(new Train());
   }
 
