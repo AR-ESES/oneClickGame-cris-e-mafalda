@@ -17,7 +17,6 @@ function mousePressed() {
 function setup() {
   createCanvas(800, 450);
   unicorn = new Unicorn();
-  
 
 }
 
@@ -31,6 +30,7 @@ function draw() {
   if (random(1) < 0.003) {
     trains.push(new Train());
   }
+}
 
   background(bImg);
   for (let t of trains) {
