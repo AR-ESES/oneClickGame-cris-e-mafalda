@@ -21,6 +21,16 @@ function mousePressed() {
 function setup() {
   createCanvas(800, 450);
   unicorn = new Unicorn();
+  
+  gameOver = createSprite(300,100);
+  gameOver.addImage(gameOverImg);
+  
+  restart = createSprite(300,140);
+  restart.addImage(restartImg);
+  
+  gameOver.scale = 0.5;
+  restart.scale = 0.5;
+
 }
 
 function keyPressed() {
