@@ -5,7 +5,7 @@ let bImg;
 let trains = [];
 
 function preload() {
-  uImg = loadImage('unicorn.png');
+  uImg = loadImage('sapo.png');
   tImg = loadImage('train.png');
   bImg = loadImage('background.jpg');
 }
