@@ -8,6 +8,10 @@ function preload() {
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
   bImg = loadImage('background.jpg');
+  
+  
+  gameOverImg = loadImage("gameOver.png");
+  restartImg = loadImage("restart.png");
 }
 
 function mousePressed() {
