@@ -30,7 +30,7 @@ function draw() {
   if (random(1) < 0.003) {
     trains.push(new Train());
   }
-}
+
 
   background(bImg);
   for (let t of trains) {
