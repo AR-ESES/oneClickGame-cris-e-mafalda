@@ -1,17 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7688045&assignment_repo_type=AssignmentRepo)
-# Projeto Final - “One-Click Game”
+O nosso jogo baseia-se no tema da poluição, o público-alvo são crianças com cerca de seis anos de idade. 
 
-### Introdução
+Apresentamos o tema de um modo dinâmico e divertido mas ao mesmo tempo pedagógico que visa incentivar as crianças a compreender que o lixo polui o meio ambiente e pode prejudicar os animais.
 
-Pretende-se com este projeto que desenhem e implementem um pequeno jogo de apenas um comando (ao estilo Flappy Bird). A temática é livre, sendo que será valorizada a abordagem educativa e/ou o facto de tratarem um assunto que careça de maior atenção por parte do (de um) público.
+Para a metodologia e desenvolvimento do jogo “O Sapo Barnabé”, utilizamos como base o código do canal de youtube “The Coding Train” - “Coding Challenge #147: Chrome Dinosaur Game (with Speech Commands machine learning model!), porém adaptamos o código ao nosso jogo e decidimos tirar o machine learning, pois após várias tentativas consideramos que não tinha um bom desempenho e que poderia dificultar o nosso público-alvo.
 
-### Metodologia e Entregáveis
-
-1. Com base nas premissas definidas na introdução e no conhecimento adquirido na introdução à programação multimédia com P5js das primeiras aulas, é pedido que definam um ambiente de jogo e personagens e/ou artefactos. Esta definição poderá ser feita com recurso a imagens e/ou ilustrações digitais - Tal resultará num **conjunto de layouts** que permitirá o teste, a revisão e o planeamento das tarefas subsequentes;
-2. **Design de Comunicação** - Todos os jogos merecem uma identidade gráfica que atuará enquanto elemento aglutinador em concordancia com o espirito da temática e coerente com as opções gráficas do jogo. Esta deverá ser aplicada no jogo, na documentação (instruções) do mesmo e em elementos promocionais, digitais e físicos que achem mais apropriados!
-3. **Video** - Será também necessário documentar a utilização do jogo em video, quer através da captura de ecrã directa em pleno jogo como também através da ilustração da sua utilização tanto de um ponto de vista subjetivo como ilustrando o ambiente, idades e target da sua utilização. Tal deverá ser sumarizado um pequeno video promocional de 30 segundos.
-4. **Distribuição do Jogo -** Por fim, a distribuição livre do jogo deverá acontecer através da sua publicação no **Github**, tanto para utilização (estando ativas as **Github Pages** com o jogo a funcionar) como através da **documentação no Readme.md**, onde figurará toda a documentação originada pelos pontos anteriores.
-
-### Referências
-
-[Flappy Bird](https://flappybird.io/)
+Em relação ao Layout do jogo, desenvolvemos todas as ilustrações no Adobe Illustrator, criámos um fundo de um pantâno e como personagem principal do jogo, decidimos desenvolver um sapo e como obstáculo um saco de lixo. Pretendemos criar um layout de jogo divertido e colorido, desse modo, escolhemos cores atrativas que tenham harmonia entre si, de modo a estimular as crianças a prestar a atenção e que a mensagem seja bem transmitida.
