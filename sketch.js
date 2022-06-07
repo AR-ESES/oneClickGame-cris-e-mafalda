@@ -8,12 +8,13 @@ let trains = [];
 
 
 function preload() {
-  soundFormats('mp3');
+   soundFormats('mp3');
   snd = loadSound("buddy.mp3");
   jump = loadSound("jump.mp3");
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
-  bImg = loadImage('cenário.png');
+  bImg = loadImage('fundo.png');
+  
 }
 
 function setup() {
@@ -24,7 +25,7 @@ function setup() {
 function keyPressed() {
   if (key == ' ') {
     unicorn.jump(); //sapo salta
-     jump.play();
+    jump.play();  
   }
 }
 
@@ -40,12 +41,13 @@ function draw() {
     if (unicorn.hits(t)) {
       console.log('game over');
       noLoop();
-    }
-  }
 
+  }
+  }
   unicorn.show();
   unicorn.move();
 }
-function mouseClicked() {
+
+  function mouseClicked() {
   snd.play();
 }
