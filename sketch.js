@@ -1,3 +1,4 @@
+let snd;
 let unicorn;
 let uImg;
 let tImg;
@@ -6,6 +7,8 @@ let trains = [];
 
 
 function preload() {
+   soundFormats('mp3');
+  snd = loadSound("buddy.mp3");
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
   bImg = loadImage('cenário.png');
@@ -39,4 +42,7 @@ function draw() {
 
   unicorn.show();
   unicorn.move();
+}
+function mouseClicked() {
+  snd.play();
 }
