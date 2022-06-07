@@ -1,3 +1,4 @@
+let jump;
 let snd;
 let unicorn;
 let uImg;
@@ -9,6 +10,7 @@ let trains = [];
 function preload() {
    soundFormats('mp3');
   snd = loadSound("buddy.mp3");
+  jump = loadSound("jump.mp3");
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
   bImg = loadImage('cenário.png');
@@ -22,6 +24,7 @@ function setup() {
 function keyPressed() {
   if (key == ' ') {
     unicorn.jump(); //sapo salta
+     jump.play();
   }
 }
 
