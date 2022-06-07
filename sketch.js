@@ -13,18 +13,18 @@ function preload() {
 
 function setup() {
   createCanvas(800, 450);
-  unicorn = new Unicorn();
+  unicorn = new Unicorn(); 
 }
 
 function keyPressed() {
   if (key == ' ') {
-    unicorn.jump();
+    unicorn.jump(); //sapo salta
   }
 }
 
 function draw() {
   if (random(1) < 0.005) {
-    trains.push(new Train());
+    trains.push(new Train()); //aparecem novos obstáculos
   }
 
   background(bImg);
