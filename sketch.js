@@ -8,7 +8,7 @@ let trains = [];
 function preload() {
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
-  bImg = loadImage('fundo.png');
+  bImg = loadImage('cenario.png');
 }
 
 function setup() {
