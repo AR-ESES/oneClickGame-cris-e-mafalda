@@ -1,4 +1,4 @@
-et jump;
+let jump;
 let snd;
 let unicorn;
 let uImg;
@@ -8,7 +8,7 @@ let trains = [];
 
 
 function preload() {
-   soundFormats('mp3');
+  soundFormats('mp3');
   snd = loadSound("buddy.mp3");
   jump = loadSound("jump.mp3");
   uImg = loadImage('sapo.png');
