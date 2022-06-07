@@ -1,6 +1,6 @@
 class Unicorn {
   constructor() {
-    this.r = 180;
+    this.r = 160;
     this.x = -2;
     this.y = height - this.r;
     this.vy = 0;
@@ -30,8 +30,6 @@ class Unicorn {
   show() {
     image(uImg, this.x, this.y, this.r, this.r);
 
-    // fill(255, 50);
-    // ellipseMode(CORNER);
-    // ellipse(this.x, this.y, this.r, this.r);
+   
   }
 }
