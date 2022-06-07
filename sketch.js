@@ -11,7 +11,7 @@ function preload() {
   snd = loadSound("buddy.mp3");
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
-  bImg = loadImage('fundo.png');
+  bImg = loadImage('cenário.png');
   
 }
 
