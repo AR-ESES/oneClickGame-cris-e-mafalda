@@ -1,4 +1,4 @@
-let jump;
+et jump;
 let snd;
 let unicorn;
 let uImg;
@@ -13,8 +13,7 @@ function preload() {
   jump = loadSound("jump.mp3");
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
-  bImg = loadImage('fundo.png');
-  
+  bImg = loadImage('cenário.png');
 }
 
 function setup() {
@@ -25,7 +24,7 @@ function setup() {
 function keyPressed() {
   if (key == ' ') {
     unicorn.jump(); //sapo salta
-    jump.play();  
+     jump.play();
   }
 }
 
@@ -41,15 +40,12 @@ function draw() {
     if (unicorn.hits(t)) {
       console.log('game over');
       noLoop();
+    }
+  }
 
-  }
-  }
   unicorn.show();
   unicorn.move();
 }
-
-  
 function mouseClicked() {
   snd.play();
 }
-  
