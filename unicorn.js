@@ -1,7 +1,7 @@
 class Unicorn {
   constructor() {
-    this.r = 150;
-    this.x = 50;
+    this.r = 180;
+    this.x = -2;
     this.y = height - this.r;
     this.vy = 0;
     this.gravity = 3;
