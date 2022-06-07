@@ -1,6 +1,6 @@
 class Train {
   constructor() {
-    this.r = 100;
+    this.r = 400;
     this.x = width;
     this.y = height - this.r;
   }
