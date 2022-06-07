@@ -1,6 +1,6 @@
 class Unicorn {
   constructor() {
-    this.r = 160;
+    this.r = 130;
     this.x = -2;
     this.y = height - this.r;
     this.vy = 0;
