@@ -11,10 +11,6 @@ function preload() {
   bImg = loadImage('background.jpg');
 }
 
-function mousePressed() {
-  trains.push(new Train());
-}
-
 function setup() {
   createCanvas(800, 450);
   unicorn = new Unicorn();
