@@ -8,6 +8,9 @@ Para a metodologia e desenvolvimento do jogo “O Sapo Barnabé”, utilizamos c
 
 Em relação ao Layout do jogo, desenvolvemos todas as ilustrações no Adobe Illustrator, criámos um fundo de um pantâno e como personagem principal do jogo, decidimos desenvolver um sapo e como obstáculo um saco de lixo. Pretendemos criar um layout de jogo divertido e colorido, desse modo, escolhemos cores atrativas que tenham harmonia entre si, de modo a estimular as crianças a prestar a atenção e que a mensagem seja bem transmitida.
 
+Hiperligação de acesso à Maquete do jogo, que idealizámos inicialmente, a animação foi toda feita no After Effects, apenas a parte inicial do menu é uma gravação de ecrã do nosso menu a funcionar: 
+https://youtu.be/2rJvkEbK-dM
+
 
 Hiperligação de acesso ao nosso Merchandising: 
 https://drive.google.com/drive/folders/1l6BwaKuyT3byvrmVoqR4PtrozaH1usI1?usp=sharing
