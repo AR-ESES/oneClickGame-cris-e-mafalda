@@ -7,3 +7,7 @@ Apresentamos o tema de um modo dinâmico e divertido mas ao mesmo tempo pedagóg
 Para a metodologia e desenvolvimento do jogo “O Sapo Barnabé”, utilizamos como base o código do canal de youtube “The Coding Train” - “Coding Challenge #147: Chrome Dinosaur Game (with Speech Commands machine learning model!), porém adaptamos o código ao nosso jogo e decidimos tirar o machine learning, pois após várias tentativas consideramos que não tinha um bom desempenho e que poderia dificultar o nosso público-alvo.
 
 Em relação ao Layout do jogo, desenvolvemos todas as ilustrações no Adobe Illustrator, criámos um fundo de um pantâno e como personagem principal do jogo, decidimos desenvolver um sapo e como obstáculo um saco de lixo. Pretendemos criar um layout de jogo divertido e colorido, desse modo, escolhemos cores atrativas que tenham harmonia entre si, de modo a estimular as crianças a prestar a atenção e que a mensagem seja bem transmitida.
+
+
+Hiperligação de acesso ao nosso Merchandising: 
+https://drive.google.com/drive/folders/1l6BwaKuyT3byvrmVoqR4PtrozaH1usI1?usp=sharing
