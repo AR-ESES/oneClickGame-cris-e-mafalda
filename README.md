@@ -1,3 +1,5 @@
+Jogo- "As Aventuras do Sapo Barnabé"
+
 O nosso jogo baseia-se no tema da poluição, o público-alvo são crianças com cerca de seis anos de idade. 
 
 Apresentamos o tema de um modo dinâmico e divertido mas ao mesmo tempo pedagógico que visa incentivar as crianças a compreender que o lixo polui o meio ambiente e pode prejudicar os animais.
