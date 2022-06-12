@@ -1,3 +1,4 @@
+let fail;
 let jump;
 let snd;
 let unicorn;
@@ -10,6 +11,7 @@ let trains = [];
 function preload() {
    soundFormats('mp3');
   snd = loadSound("buddy.mp3");
+  fail = loadSound("fail.mp3");
   jump = loadSound("jump.mp3");
   uImg = loadImage('sapo.png');
   tImg = loadImage('lixo.png');
@@ -40,6 +42,7 @@ function draw() {
     t.show();
     if (unicorn.hits(t)) {
       console.log('game over');
+      fail.play();
       noLoop();
 
   }
